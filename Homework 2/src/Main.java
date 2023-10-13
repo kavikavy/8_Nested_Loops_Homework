@@ -11,6 +11,8 @@ public class Main {
                     break;
                 }
             }
+            if (flag == true)
+                break;
         }
         System.out.println(flag);
     }
